@@ -1,0 +1,14 @@
+Departure Date 4/11/2020
+Package Loaded: Package #1	TrackNum: 123450	Length: 12, Width: 12 Package is a 10oz letter.
+Package Loaded: Package #1	TrackNum: 55555551	Length: 36, Width: 36 Package is a 99oz box.
+Package Loaded: Package #1	TrackNum: 123890	Length: 10, Width: 10 Package is a 20oz letter.
+Package Loaded: Package #1	TrackNum: 656562	Length: 36, Width: 36 Package is a 50oz metal crate, contents: null
+Package Loaded: Package #1	TrackNum: 324251223	Length: 5, Width: 5 Package is a 50oz wooden crate and is fragile
+Package Loaded: Package #1	TrackNum: 211160	Length: 1, Width: 1 Package is a 1oz letter.
+Package Loaded: Package #1	TrackNum: 324566	Length: 33, Width: 55 Package is a 214oz wooden crate and is fragile
+Package Loaded: Package #1	TrackNum: 123443	Length: 24, Width: 24 Package is a 250oz wooden crate and is fragile
+Package Loaded: Package #1	TrackNum: 2198412	Length: 24, Width: 76 Package is a 424oz metal crate, contents: null
+Package Loaded: Package #1	TrackNum: 21498120	Length: 3, Width: 8 Package is a 3oz letter.
+Package Loaded: Package #1	TrackNum: 123421	Length: 7, Width: 6 Package is a 5oz box.
+Package Loaded: Package #1	TrackNum: 209842	Length: 12, Width: 12 Package is a 66oz metal crate, contents: null
+Package Loaded: Package #1	TrackNum: 123410	Length: 11, Width: 3 Package is a 11oz letter.
